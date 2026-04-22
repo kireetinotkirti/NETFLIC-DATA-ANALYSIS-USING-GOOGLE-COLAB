@@ -26,7 +26,12 @@ To analyze Netflix's catalog and extract meaningful insights about:
 
 ##  Dashboard Preview
 
+![alt text](NTFXDataAnalysis_Outputs/00_dashboard.png)
 
+---
+## Output Preview
+
+![alt text](NTFXDataAnalysis_Outputs/05_top_countries.png)
 
 ---
 
